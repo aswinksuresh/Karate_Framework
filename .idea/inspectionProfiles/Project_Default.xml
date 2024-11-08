@@ -1,0 +1,71 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="isIgnoringEnabled" value="true" />
+      <option name="ignoredModules">
+        <list>
+          <option value="KarateAutomationProject" />
+          <option value="KarateAutomationProject" />
+          <option value="KarateAutomationProject" />
+          <option value="KarateAutomationProject" />
+          <option value="KarateAutomationProject" />
+          <option value="KarateAutomationProject" />
+          <option value="KarateAutomationProject" />
+          <option value="KarateAutomationProject" />
+          <option value="KarateAutomationProject" />
+          <option value="KarateAutomationProject" />
+          <option value="KarateAutomationProject" />
+          <option value="KarateAutomationProject" />
+          <option value="KarateAutomationProject" />
+          <option value="KarateAutomationProject" />
+          <option value="KarateAutomationProject" />
+          <option value="KarateAutomationProject" />
+          <option value="KarateAutomationProject" />
+        </list>
+      </option>
+      <option name="ignoredPackages">
+        <list>
+          <option value="ch.qos.logback:logback-classic:1.4.11" />
+          <option value="ch.qos.logback:logback-core:1.4.11" />
+          <option value="com.jayway.jsonpath:json-path:2.8.0" />
+          <option value="io.netty:netty-codec-http2:4.1.96.Final" />
+          <option value="io.netty:netty-codec-http:4.1.96.Final" />
+          <option value="ch.qos.logback:logback-classic:1.2.9" />
+          <option value="ch.qos.logback:logback-core:1.2.9" />
+          <option value="com.fasterxml.jackson.core:jackson-databind:2.13.0" />
+          <option value="com.jayway.jsonpath:json-path:2.7.0" />
+          <option value="com.linecorp.armeria:armeria:1.13.4" />
+          <option value="io.github.classgraph:classgraph:4.8.108" />
+          <option value="io.netty:netty-codec-haproxy:4.1.70.Final" />
+          <option value="io.netty:netty-codec-http2:4.1.70.Final" />
+          <option value="io.netty:netty-codec-http:4.1.70.Final" />
+          <option value="io.netty:netty-handler:4.1.70.Final" />
+          <option value="net.minidev:json-smart:2.4.7" />
+          <option value="org.yaml:snakeyaml:1.29" />
+        </list>
+      </option>
+      <option name="ignoredReasons">
+        <list>
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
